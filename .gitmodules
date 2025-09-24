@@ -1,0 +1,3 @@
+[submodule "ad5593r"]
+	path = ad5593r
+	url = https://github.com/francdoc/ad5593r.git
